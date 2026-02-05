@@ -1,4 +1,6 @@
 # EX.No  Spatial-Descriptions-using-Robo-DK
+## Name: Mirtyunjay S
+### Register No:212224040190
 ## AIM
 To Simulate the Robot DK software for spatial descriptions
 
@@ -35,6 +37,17 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 Similaly fix target in the given position 
 
 ## Output
+<img width="1920" height="1200" alt="Screenshot 2026-02-05 135212" src="https://github.com/user-attachments/assets/3f738c5c-6fb7-4816-9e8d-4979559bc785" />
+
+<img width="1920" height="1200" alt="Screenshot 2026-02-05 135155" src="https://github.com/user-attachments/assets/91dfa62b-cd47-4266-9db0-07fa5b758b04" />
+
+<img width="1920" height="1200" alt="Screenshot 2026-02-05 135048" src="https://github.com/user-attachments/assets/e30f3f06-8b8b-4ed8-bdd5-434c06d52ce0" />
+
+<img width="1920" height="1200" alt="Screenshot 2026-02-05 135021" src="https://github.com/user-attachments/assets/b128fc11-1a6d-4154-97d2-2abbdd9bcf3b" />
+
+
+
+
 
 ## Results
 
